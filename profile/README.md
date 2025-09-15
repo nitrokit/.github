@@ -1,5 +1,3 @@
-**Nitrokit** is a platform offering comprehensive and innovative toolkits designed to accelerate the workflows and enhance the productivity of modern developers.
-
 Our goal is to simplify development processes, automate repetitive tasks, and enable you to bring your projects to life more quickly. With a wide range of solutions, from web development to command-line tools, we empower developers to focus solely on writing code.
 
 ---
@@ -17,3 +15,5 @@ Our **GitHub Discussions** section is the best place to connect with our communi
 ### 💖 **Want to Contribute?**
 
 Don't hesitate to contribute to our open-source projects. Every contribution is valuable! Please check the `CONTRIBUTING.md` files in the respective repositories.
+
+© 2025 Nitrokit.
