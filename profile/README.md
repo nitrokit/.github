@@ -4,4 +4,6 @@
 
 Our goal is to help developers focus on writing code, not on repetitive tasks. From web development to command-line tools, our solutions are designed to boost your productivity.
 
+<div align="right">
 <img src="https://raw.githubusercontent.com/nitrokit/.github/refs/heads/main/profile/69shots_so.png" width="500" alt="Nitrokit" />
+</div>
