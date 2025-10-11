@@ -1,1 +1,5 @@
-Our goal is to simplify development processes, automate repetitive tasks, and enable you to bring your projects to life more quickly. With a wide range of solutions, from web development to command-line tools, we empower developers to focus solely on writing code.
+[![NPM Version](https://img.shields.io/npm/v/nitrokit-cli?logo=npm&label=nitrokit-cli)](https://www.npmjs.com/package/nitrokit-cli) [![NPM Downloads](https://img.shields.io/npm/d18m/nitrokit-cli?logo=npm&label=nitrokit-cli)](https://www.npmjs.com/package/nitrokit-cli)
+
+
+
+Our goal is to help developers focus on writing code, not on repetitive tasks. From web development to command-line tools, our solutions are designed to boost your productivity.
